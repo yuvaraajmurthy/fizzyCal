@@ -1,2 +1,2 @@
 # fizzyCal
-Adds events on physical calendar to digital calendars. 
+Adds events from physical calendar to digital calendars. 
